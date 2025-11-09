@@ -1,11 +1,11 @@
 // 商品資料（多加 hot 屬性）
 const products = [
-  { name: "香氛蠟燭", price: 299, category: "香氛", img: "https://picsum.photos/220?1", hot: true },
-  { name: "玫瑰香氛噴霧", price: 350, category: "香氛", img: "https://picsum.photos/220?2", hot: false },
-  { name: "可愛馬克杯", price: 250, category: "杯子", img: "https://picsum.photos/220?3", hot: true },
-  { name: "星空玻璃杯", price: 320, category: "杯子", img: "https://picsum.photos/220?4", hot: false },
-  { name: "小熊筆記本", price: 120, category: "文具", img: "https://picsum.photos/220?5", hot: true },
-  { name: "貓咪原子筆", price: 80, category: "文具", img: "https://picsum.photos/220?6", hot: false }
+  { name: "Rich Man ", price: 299, category: "aespa", img: "https://picsum.photos/220?1", hot: true },
+  { name: "dirty work", price: 350, category: "aespa", img: "https://picsum.photos/220?2", hot: false },
+  { name: "Blue Valentine", price: 250, category: "nmixx", img: "https://picsum.photos/220?3", hot: true },
+  { name: "Blue 2", price: 320, category: "nmixx", img: "https://picsum.photos/220?4", hot: false },
+  { name: "xoxz", price: 120, category: "ive", img: "https://picsum.photos/220?5", hot: true },
+  { name: "I am", price: 80, category: "ive", img: "https://picsum.photos/220?6", hot: false }
 ];
 
 let cart = [];
