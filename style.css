@@ -1,13 +1,13 @@
 body {
   font-family: "微軟正黑體", sans-serif;
-  background-color: #fff8f5;
+  background-color: #d9ecf9;
   margin: 0;
   padding: 0;
   color: #333;
 }
 
 header {
-  background: linear-gradient(135deg, #ffb6b9, #ffd5c2);
+  background: linear-gradient(135deg, #0089ae, #65bacf);
   text-align: center;
   padding: 25px 10px;
   color: #333;
@@ -18,7 +18,7 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #ffe3d8;
+  background-color: #79d8f5;
   padding: 10px 20px;
   position: sticky;
   top: 0;
@@ -42,7 +42,7 @@ nav {
 }
 
 #cart-button {
-  background-color: #ff9a8b;
+  background-color: #0985a1;
   border: none;
   color: white;
   padding: 8px 12px;
@@ -52,7 +52,7 @@ nav {
 }
 
 #cart-button:hover {
-  background-color: #ff6f61;
+  background-color: #0c919b;
 }
 
 .product-list {
@@ -100,7 +100,7 @@ nav {
   right: 0;
   text-align: center;
   color: white;
-  background: rgba(255, 154, 139, 0.85);
+  background: rgba(22, 145, 183, 0.85);
   padding: 6px 0;
   border-radius: 0 0 12px 12px;
   opacity: 0;
@@ -115,13 +115,13 @@ nav {
 }
 
 .price {
-  color: #e67e22;
+  color: #13b297;
   font-weight: bold;
   font-size: 16px;
 }
 
 button {
-  background-color: #ff9a8b;
+  background-color: #0165b7;
   color: white;
   border: none;
   padding: 8px 12px;
@@ -132,7 +132,7 @@ button {
 }
 
 button:hover {
-  background-color: #ff6f61;
+  background-color: #0a59ad;
 }
 
 /* 熱銷標籤 */
@@ -140,7 +140,7 @@ button:hover {
   position: absolute;
   top: 10px;
   left: -30px;
-  background: #ff6f61;
+  background: #71b5ec;
   color: white;
   padding: 5px 40px;
   font-size: 12px;
@@ -153,7 +153,7 @@ button:hover {
   top: 80px;
   right: 20px;
   background: #fff;
-  border: 2px solid #ffb6b9;
+  border: 2px solid #8cd4f8;
   border-radius: 12px;
   width: 250px;
   padding: 15px;
@@ -179,7 +179,7 @@ button:hover {
 
 footer {
   text-align: center;
-  background: #ffe3d8;
+  background: #a4cee4;
   padding: 12px;
   font-size: 14px;
   margin-top: 30px;
